@@ -2,6 +2,8 @@
 
 > Khái niệm · Tác dụng · Các hàm thường dùng và độ phức tạp
 
+Xem thêm: [Thuật toán C++ – hàm STL và kỹ thuật giải bài](ALGORITHMS.md)
+
 ## Cách đọc tài liệu
 
 - Mỗi cấu trúc có 3 phần: **Khái niệm** (nó là gì), **Tác dụng** (dùng khi nào, kèm bài NeetCode ví dụ) và **Các hàm** (cú pháp, tác dụng, độ phức tạp), cuối cùng là một đoạn code mẫu.
